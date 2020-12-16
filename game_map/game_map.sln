@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game_map", "game_map\game_map.csproj", "{126FFD6F-7572-48D3-8FD3-26783C2B7F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126FFD6F-7572-48D3-8FD3-26783C2B7F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126FFD6F-7572-48D3-8FD3-26783C2B7F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126FFD6F-7572-48D3-8FD3-26783C2B7F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126FFD6F-7572-48D3-8FD3-26783C2B7F09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB316D9B-17F9-4875-9E2C-C7E0D3F33D18}
+	EndGlobalSection
+EndGlobal
